@@ -14,5 +14,6 @@ Para isso foi utilizada a chave pública e colocada no GitHub, tendo assim uma c
  ### Criando o primeiro repositório:
  - Após criar a pasta através do terminal, foi dado incio ao comando **git init** para que o GIT comece a gerenciar e versionar o código.
  - Criar um arquivo **Markdown**  e escrever dentro dele as informações que deseja ser passada.
- - Após tudo isso foi salvo, e foi feito um git add * em seguida **git commmit -m "STRING"*
+ - Após tudo isso foi salvo, e foi feito um git add * em seguida **git commit -m "Mensagem de commit"* e por ultimo o **git push**
+ - 
  
